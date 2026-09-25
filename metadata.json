@@ -1,0 +1,6 @@
+{
+  "name": "VaaniVideo",
+  "description": "Converts PDF documents and narration audio into synchronized videos with automatic page turns, transitions, and audio mixing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
